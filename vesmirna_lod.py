@@ -1,3 +1,4 @@
+import pyglet
 batch = pyglet.graphics.Batch()
 sprite1 = pyglet.sprite.Sprite(obrazek, batch=batch)
 sprite2 = pyglet.sprite.Sprite(obrazek, batch=batch)
